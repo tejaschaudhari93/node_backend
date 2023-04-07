@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'angular-s'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0995AF2DD1F34D40B36B007379CD41CE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1FF758BEF6E4832BE74B6DEDBAF2B43 }}
           package: .
